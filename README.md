@@ -8,8 +8,8 @@
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20Demo-FF4B4B.svg)](https://loan-default-shap.streamlit.app)
 [![SHAP](https://img.shields.io/badge/Explainability-SHAP-blueviolet.svg)](https://shap.readthedocs.io/)
 
-**🚀 Live demo:** [loan-default-shap.streamlit.app](https://loan-default-shap.streamlit.app) *(update after deployment)*
-
+**🚀 Live demo:** [loan-default-shap.streamlit.app] 
+(https://loan-default-shap-nsewcew7xxpapmwsuz2kvg.streamlit.app/)
 ---
 
 ## Why this matters
