@@ -9,7 +9,7 @@
 [![SHAP](https://img.shields.io/badge/Explainability-SHAP-blueviolet.svg)](https://shap.readthedocs.io/)
 
 **🚀 Live demo:** [loan-default-shap.streamlit.app] 
-(https://loan-default-shap-nsewcew7xxpapmwsuz2kvg.streamlit.app/)
+(https://loan-default-shap.streamlit.app/)
 ---
 
 ## Why this matters
