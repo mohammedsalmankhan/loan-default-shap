@@ -188,8 +188,8 @@ MIT — see [LICENSE](LICENSE).
 
 ## About
 
-Built by **Salman Khan**, MSc Artificial Intelligence at Ulster University. This project began as MSc coursework and has been refactored to production quality for portfolio use.
+Built by Mohammed Salman Khan, MSc Artificial Intelligence at Ulster University. This project began as MSc coursework and has been refactored to production quality for portfolio use.
 
--  mohammedsalmankhans636@gmail.com
--  [LinkedIn](https://www.linkedin.com/in/mohammedsalmankhans/)
--  [GitHub](https://github.com/mohammedsalmankhan)
+Email: mohammedsalmankhans636@gmail.com
+LinkedIn: https://www.linkedin.com/in/mohammedsalmankhans/
+GitHub: https://github.com/mohammedsalmankhan
